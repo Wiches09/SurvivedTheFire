@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Senior Project/ue/SPJ2/Content/65070201/BP/Item/BP_ItemParrent.uasset",
+				"D:/Senior Project/ue/SPJ2/Content/65070201/BP/BP_FireParrent.uasset",
+				"D:/Senior Project/ue/SPJ2/Content/65070201/BP/FireStarter/BP_FireParrent.uasset",
+				"D:/Senior Project/ue/SPJ2/Content/65070201/BP/FireStarter/BP_PlugFire.uasset",
+				"D:/Senior Project/ue/SPJ2/Content/65070201/BP/Item/BP_Item1.uasset",
+				"D:/Senior Project/ue/SPJ2/Content/65070201/BP/FireStarter/BP_FireParrent12.uasset",
+				"D:/Senior Project/ue/SPJ2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/LR/4Z9TF9G4HOWG0JKFF0PNCQ.uasset",
+				"D:/Senior Project/ue/SPJ2/Content/65070201/BP/BP_FirstPersonCharacterNew.uasset",
+				"D:/Senior Project/ue/SPJ2/Content/65070201/Widget/W_Lose.uasset",
+				"D:/Senior Project/ue/SPJ2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/AN/S3O9JMYFSTAS8CU2OKIY28.uasset",
+				"D:/Senior Project/ue/SPJ2/Content/FirstPerson/Lvl_FirstPerson.umap",
+				"D:/Senior Project/ue/SPJ2/Content/65070201/BP/FireStarter/BP_Gas.uasset",
+				"D:/Senior Project/ue/SPJ2/Content/65070201/BP/BP_PlugFire.uasset"
+			]
+		}
+	]
+}
